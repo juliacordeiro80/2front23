@@ -1,6 +1,16 @@
+body{
+	background: #CCCCCC
+}
 p{
 	text-aling: center;
 }
-body{
-	background-color: #f0f0f0;
+em strong{
+	color: #FF0000;
+}
+
+h1{
+	color: #0000FF;
+}
+#banner {
+      width: 100%;
 }

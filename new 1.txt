@@ -1,6 +1,0 @@
-p{
-	text-aling: center;
-}
-body{
-	background-color: #f0f0f0;
-}

@@ -1,28 +1,29 @@
-body{
-	background: #CCCCCC
+
+		body{
+	background: #cccccc;
 }
-p, .centralizar{
+p,.centralizar{
 	text-align: center;
 }
 em strong{
 	color: #FF0000;
 }
 h1,h2{
-	color: #0000FF;
+	color: #0000FF; 
 }
 #banner {
-      width: 100%;
+    width: 100%;
 }
-items{
-		front-style: italic;
-		list-style: none;
+.items{
+	font-style: italic;
+	list-style: none;
 }
 #beneficios{
-			width:50%;
+	width:50%;
 }
 ul{
-		display: inline-block;
-		width: 20%;
-		margin-right: 15%
-		vertical-aling:top;
+	display: inline-block;
+	width: 20%;
+	margin-right: 15%;
+	vertical-align:top;
 }
